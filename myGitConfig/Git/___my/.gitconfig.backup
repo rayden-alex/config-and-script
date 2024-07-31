@@ -1,0 +1,31 @@
+[user]
+	name = rayden
+	email = rayden@tut.by
+[gui]
+	warndetachedcommit = true
+	matchtrackingbranch = true
+	encoding = utf-8
+	recentrepo = D:/java/prj/java8_design_patterns
+	recentrepo = D:/java/prj/design-patterns
+[color]
+	ui = true
+[core]
+	editor = "d:/Git/AkelPad.cmd"
+	excludesfile = c:/Users/rayden/.gitignore
+	autocrlf = true
+	quotepath = false
+	whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
+[merge]
+	tool = DiffMerge
+[diff]
+	guitool = kdiff3
+[alias]
+	st = status -sb
+	ci = commit
+	co = checkout
+        graph = log --graph --oneline --decorate=short --branches='*'
+	br = branch
+	df = diff --color-words='[^[:space:]]'
+	sh = show --color-words='[^[:space:]]'
+	lg = log -p
+

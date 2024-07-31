@@ -1,0 +1,7 @@
+[wsl2]                                                                           
+# https://learn.microsoft.com/en-us/windows/wsl/release-notes#build-18945
+
+guiApplications=false
+memory=4GB    # Limits VM memory in WSL 2 up to 4GB
+processors=6  # Makes the WSL VM use 6 virtual processors
+swap=1GB      # How much swap space to add to the WSL2 VM. 0 for no swap file.
