@@ -1,0 +1,2 @@
+ "winget upgrade --all" и "sudo apt update && sudo apt full-upgrade" внутри WSL.
+
