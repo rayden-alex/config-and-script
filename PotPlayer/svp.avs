@@ -14,6 +14,7 @@ SetFilterMTMode("SVAnalyse",1)
 SetFilterMTMode("potplayer_source",3)
 
 potplayer_source()
+# ConvertToYV12()
 
 gpuid = (gpu==2) ? "gpuid:21" : "gpuid:0"
 
