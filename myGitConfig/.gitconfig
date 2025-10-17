@@ -32,3 +32,5 @@
 
 [log]
 	date = iso
+[safe]
+	directory = D:/java/prj/
