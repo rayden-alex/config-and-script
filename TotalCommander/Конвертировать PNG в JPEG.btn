@@ -1,0 +1,8 @@
+TOTALCMD#BAR#DATA
+c:\Program Files\nConvert\nconvert.exe
+-in png -out jpeg -keepfiledate -q 90 -opthuff -dct 0 -subsampling 2 -D -l %L
+shell32.dll,322
+Конвертировать PNG в JPEG
+
+1
+-1

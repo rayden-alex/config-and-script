@@ -1,0 +1,59 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# IDEA
+#0.0.0.0 account.jetbrains.com
+#0.0.0.0 www-weighted.jetbrains.com
+
+#Viber  реклама
+0.0.0.0 ads.viber.com
+0.0.0.0 ads.aws.viber.com
+0.0.0.0 ads-d.viber.com
+0.0.0.0 images.taboola.com
+0.0.0.0 api.taboola.com
+0.0.0.0 rmp.rakuten.com
+0.0.0.0 s-clk.rmp.rakuten.com
+0.0.0.0 s-bid.rmp.rakuten.com
+
+#PotPlayer telemetry
+0.0.0.0 play.kakao.com
+0.0.0.0 get.daum.net
+0.0.0.0 track.tiara.daum.net
+
+# BlockPotPlayer
+0.0.0.0 get.daum.net
+0.0.0.0 play.kakao.com
+0.0.0.0 potplayertv.daum.net
+0.0.0.0 track.tiara.daum.net
+0.0.0.0 p1-play.edge4k.com
+0.0.0.0 p2-play.edge4k.com
+0.0.0.0 p1-play.kgslb.com
+0.0.0.0 kyson.ad.daum.net
+0.0.0.0 display.ad.daum.net
+0.0.0.0 analytics.ad.daum.net
+0.0.0.0 adverweb.cjenm.com
+0.0.0.0 videofarm.daum.net
+
+# Java dev
+
+127.0.0.1 myhost.local
+192.168.1.36 mydebian.local

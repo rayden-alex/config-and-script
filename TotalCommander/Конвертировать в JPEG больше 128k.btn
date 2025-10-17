@@ -1,0 +1,8 @@
+TOTALCMD#BAR#DATA
+c:\Program Files\nConvert\nconvert.exe
+-out jpegli -quiet -greater_than filesize 131072 -resize longest 3072 -rflag decr -rtype mitchell -sharpen 15 -q 90 -opthuff -dct 2 -subsampling 0 -truecolors -keepfiledate -overwrite -l %L
+shell32.dll,322
+Конвертировать JPEG больше 128k
+
+0
+-1
