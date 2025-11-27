@@ -1,7 +1,8 @@
 ﻿# ~/.config/starship.toml
 
 add_newline = false
-command_timeout = 1000
+command_timeout = 1500
+scan_timeout = 1500
 # format = """$os$username$hostname$kubernetes$directory$git_branch$git_status⌦"""
 format = """
 [](#9A348E)\
