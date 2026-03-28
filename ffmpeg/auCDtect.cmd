@@ -1,0 +1,1 @@
+C:/Rip/FFMPEG/cmd/auCDtect.cmd
